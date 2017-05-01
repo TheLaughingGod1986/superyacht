@@ -1,9 +1,13 @@
 # superyacht
 
-built with
+Built with:
+
 -Jquery
--css
+
+-Css
+
 -HTML
+
 -Gridset app
 
 by Ben Oats
